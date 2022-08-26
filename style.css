@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2? family= Inter:wght@100;200;300;400;500;600 & family= Tiro+Gurmukhi & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&display=swap');
 
 * {
     padding: 0;
@@ -39,9 +39,9 @@ body {
 .form {
     width: 50%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
     background: #fff;
     padding: 3rem;
 }
@@ -50,6 +50,11 @@ body {
     margin-bottom: 3rem;
     display: flex;
     justify-content: space-between;
+}
+
+.login-button {
+    display: flex;
+    align-items: center;
 }
 
 .login-button button {
@@ -61,7 +66,7 @@ body {
 }
 
 .login-button button:hover {
-    background-color: #6c63fff1;
+    background-color: #6b63fff1;
 }
 
 .login-button a {
@@ -100,6 +105,7 @@ body {
     border: none;
     border-radius: 10px;
     box-shadow: 1px 1px 6px #0000001c;
+    font-size: 0.8rem;
 }
 
 .input-box input:hover {
@@ -110,7 +116,12 @@ body {
     outline: 1px solid #6c63ff;
 }
 
-.input-box label,
+.input-box label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #000000c0;
+}
+
 .gender-title h6 {
     font-size: 0.75rem;
     font-weight: 600;
@@ -157,7 +168,7 @@ body {
     background-color: #6b63fff1;
 }
 
-.continue-button button a{
+.continue-button button a {
     text-decoration: none;
     font-size: 0.93rem;
     font-weight: 500;
