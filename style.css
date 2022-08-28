@@ -66,7 +66,7 @@ body {
 }
 
 .login-button button:hover {
-    background-color: #6b63fff1;
+    background-color: #4741b6f1;
 }
 
 .login-button a {
@@ -169,7 +169,7 @@ body {
 }
 
 .continue-button button:hover {
-    background-color: #6b63fff1;
+    background-color: #4b469ef1;
 }
 
 .continue-button button a {
@@ -177,4 +177,37 @@ body {
     font-size: 0.93rem;
     font-weight: 500;
     color: #fff;
+}
+
+@media screen and (max-width: 1330px) {
+    .form-image {
+        display: none;
+    }
+    .container {
+        width: 50%;
+    }
+    .form {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1064px) {
+    .container {
+        width: 90%;
+        height: auto;
+    }
+    .input-group {
+        flex-direction: column;
+        overflow-y: scroll;
+        flex-wrap: nowrap;
+        max-height: 10rem;
+        padding-right: 5rem;
+    }
+    .gender-group {
+        flex-direction: column;
+        margin-top: 6rem;
+    }
+    .gender-input {
+        margin-top: 0.3rem;
+    }
 }
