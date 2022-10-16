@@ -1,4 +1,5 @@
-# Formulário de cadastro
+<h1 align="center">Formulário de cadastro</h1>
+<h2 align="center">:page_facing_up: Descrição do projeto</h2>
 Este projeto foi muito importante para aprender e praticar melhor alguns fundamentos de HTML como as estruturas de um formulário e os varidos tipos de inputs, bem como também praticar alguns alguns conceitos de CSS como flexbox e o media query para desenvolver um layout responsivo.
 <br>
 
