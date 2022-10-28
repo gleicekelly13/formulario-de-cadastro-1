@@ -29,3 +29,8 @@ Este projeto foi muito importante para aprender e praticar melhor alguns fundame
 <p>HTML5</p>
 <p>CSS3</p>
 <br>
+
+# :sunglasses: Autora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
+- LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
