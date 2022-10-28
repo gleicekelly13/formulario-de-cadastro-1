@@ -8,6 +8,12 @@ Este projeto foi muito importante para aprender e praticar melhor alguns fundame
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80974593/187581308-5c996f55-c7b4-416d-b775-7923d17d0b2b.png" width="800">
 </div>
+<br>
+
+## :iphone: Mobile design
+<div align="center">
+<img src="https://user-images.githubusercontent.com/80974593/198720380-42adf6e6-e62d-4b8f-816f-06eba5e2f713.png" width="300">
+</div>
 
 <br>
 <h2 align="center">:hourglass: Status do projeto </h2>
